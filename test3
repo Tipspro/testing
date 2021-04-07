@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TV1
+http://51.79.82.231:8080/us_disney_jr_east_usa/video.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TV1
+https://agsplayback01.astro.com.my/ch1/master_hellogoshop6_04.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TV1
+http://50.7.161.82:8278/streams/d/oasis/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TV1
+https://www.xtra.com.my/live-tv
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TV1
+https://rtm2hbbtv.secureswiftcontent.com/origin01/ngrp:rtm1/manifest.mpd
