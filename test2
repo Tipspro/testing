@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TV1
+http://198.16.106.58:8278/streams/d/assp3/playlist.m3u8
