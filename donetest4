@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://198.16.106.58:8278/streams/d/assp3/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://www.tonton.com.my/live/cna
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://dl.dropboxusercontent.com/s/sbqajs5q2jh5cys/daaitv.m3u8?dl=0
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://htv-drm-live-cdn.fptplay.net/cdn-fpt02/wannertv-sd-720p/chunks.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://topiptv.net:5890/abcd/123456/69080
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?deviceid=channel&amp;devicemodel=web&amp;deviceversion=1.0&amp;appversion=1.0&amp;devicetype=rokuchannel&amp;devicemake=rokuchannel&amp;devicednt=1&amp;advertisingid=channel&amp;embedpartner=rokuchannel&amp;appname=rokuchannel&amp;is_lat=1&amp;bmodel=bm1&amp;content=channel&amp;platform=web&amp;tags=roku_content_tags&amp;coppa=false&amp;content_type=livefeed&amp;rdid=channel&amp;genre=roku_ads_content_genre&amp;content_rating=roku_ads_content_rating&amp;studio_id=viacom&amp;channel_id=channel
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://fikrulmkc.my.id/bagus/usee-babyfirst.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://50.7.161.82:8278/streams/d/tv3/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://fikrulmkc.my.id/bagus/usee-davinci.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://topiptv.net:5890/abcd/123456/69075
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://50.7.161.82:8278/streams/d/ceria/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://rtmbesmobile.secureswiftcontent.com/origin03/ngrp:rtm3/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://198.16.106.58:8278/streams/d/assp4/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://fikrulmkc.my.id/bagus/usee-natgeo.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_665_720p/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://198.16.106.58:8278/streams/d/assp1/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_874_720p/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://rtmokeymobile.secureswiftcontent.com/origin02/ngrp:rtm2/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://cdn6.goprimetime.info/feed/ch8/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://fikrulmkc.my.id/bagus/usee-axn.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://www.googleapis.com/drive/v3/files/1yuoxzxynyuqldgfg3z8c4giqltv8x8ih?alt=media&amp;key=aizasydiiw45qm9lyiggdxmcw-46meyqvwyvj8c
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://www.livedoomovies.com/02_sporttv_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://htv-drm-live-cdn.fptplay.net/cdn-fpt02/cineworld-sd-720p/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://198.16.106.58:8278/streams/d/assp2/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://rtmklik.rtm.gov.my/channel/tv-5
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://astro1.rastream.com/hitz?type=.flv&amp;_=0.6058576568029821
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://www.googleapis.com/drive/v3/files/1e9-i4ohmqczdw60atlmykxhou-qrcq4u?alt=media&amp;key=aizasydiiw45qm9lyiggdxmcw-46meyqvwyvj8c
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://www.googleapis.com/drive/v3/files/1o3wxdig7d7gtvlfuearmgyibktj8kadm?alt=media&amp;key=aizasydiiw45qm9lyiggdxmcw-46meyqvwyvj8c
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://htv-drm-live-cdn.fptplay.net/cdn-fpt02/natgeowild-hd-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://50.7.161.82:8278/streams/d/rtmsport/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://50.7.161.82:8278/streams/d/tv8/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://wpc.d1627.nucdn.net:80/80d1627/o-tvri/content/hls/live/channel(tvrinasional)/stream(03)/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://216.144.250.174/sony_six_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+http://iptvtree.net:8080/outputofflinechecker/9kyzxqc7mwvbkmnjmf/247442
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://www.googleapis.com/drive/v3/files/1vubvcokpjhmmtcadrqbyienwxoo3dlfm?alt=media&amp;key=aizasydrq86qjrijlypclfydxt22_oc2h1verr4
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" ,TEST
+https://www.googleapis.com/drive/v3/files/1hj6s6ywr4terowfz-omjajd8fh5kuhkv?alt=media&amp;key=aizasydrq86qjrijlypclfydxt22_oc2h1verr4
