@@ -1,0 +1,219 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,TEST
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2164000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,RTM1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2164000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,RTM2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2164000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,TV3
+http://50.7.161.82:8278/streams/d/TV3sd/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,DIDIK TV
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,TV AL-HIJRAH
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8\
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,RTB SUKMAINDERA
+https://rtb-channel.glue.live/smil:rtb1/chunklist_w48379154_b1696000_sleng.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,TVS
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_03.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,OKAY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2164000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,IKLIM 
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,GO SHOP
+https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,BERNAMA
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,CCM
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,ONE HD
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,TVN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,&FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,&PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,&PICTURES HD
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,CINEMAX HD
+https://dl.dropbox.com/s/1nqhsz02w72ojjl/MAX.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,HBO RED HD
+https://dl.dropbox.com/s/4g9x2urazh01m7i/RED.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,HBO HD
+https://dl.dropbox.com/s/as9p2yufyypakyl/HBO.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,HBO HD (BACKUP 1)
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,FOX HD
+https://dl.dropbox.com/s/ya5gy9e7py83p4x/fox.m3u8
+EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,FOX MOVIE HD
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,FOX MOVIE HD (BACKUP 1)
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,FOX CRIME HD
+https://dl.dropbox.com/s/wiyzv3nsrgggg0f/Foxcrime.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,FOX FAMILY MOVIE HD
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" , FOX LIFE
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,MOVIE
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,AXN HD
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,AXN HD BACKUP
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,KIX HD
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,ZEE CINEMA
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title=" MALAYSIA " ,ZEE CAFÉ HD
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,ZING
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9xm/9xm.isml/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,ZEE ACTION
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,NAT GEO HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,BABY FIRST
+https://fikrulmkc.my.id/bagus/usee-babyfirst.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,NHK WORLD
+https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,DA VINCI CARTOON
+https://fikrulmkc.my.id/bagus/usee-davinci.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,CBEEBIES BBC CARTOON
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,NICK JR
+https://fikrulmkc.my.id/bagus/usee-nickjr.m3u8
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" ,AFC HD
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id=" " group-title=" MALAYSIA " ,BBC WORLD HD
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO WARNA
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO WARNA HD
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO PRIMA
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO PRIMA HD (BACKUP 1)
+http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO PRIMA HD (BACKUP 2)
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO PRIMA HD (BACKUP 3)
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO RANIA HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/26978.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO OASIS
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO CITRA HD
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO AURA
+https://dl.dropbox.com/s/1ur8scntlk66wya/aura.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO CERIA 
+https://dl.dropboxusercontent.com/s/sbqajs5q2jh5cys/daaitv.m3u8?dl=0
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO CERIA (BACKUP 1)
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO CERIA  (BACKUP 2)
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO AEC HD
+http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO AOD HD
+http://ts.lemmovie.com/4e402bba-d563-4f5a-8c48-75ea8bd8a44a.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO VAANAVIL HD
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,GO SHOP
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO BOO HD
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ASTRO" ,ASTRO AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SPORT" ,ASTRO ARENA HD
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SPORT" ,FOX SPORT HD
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SPORT" ,FOX SPORT 2 HD
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SPORT" ,FOX SPORT 2 HD (BACKUP 1)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SPORT" ,FOX SPORT 3 HD
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SPORT" ,BT SPORT 1 HD
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SPORT" ,BT SPORT 2 HD
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SPORT" ,SPORT TV 1
+http://Mastro@77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SPORT" ,SPORT TV 2
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SPORT" ,SUKAN RTM
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SPORT" ,TVRI SPORT HD
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,JAK TV
+https://dl.dropboxusercontent.com/s/ctdm9c9zw2uz35j/jaktv.m3u8?dl=0
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,RCTI 
+https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/rcti.m3u8?dl=0
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,RCTI (BACKUP 1)
+https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000=2.m3u8
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,POP MUSIK
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,INDOSIAR
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,KOMPAS TV 
+https://dl.dropboxusercontent.com/s/xzs1vtcvsgkxksc/kompastv.m3u8?dl=0
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,KOMPAS TV (BACKUP 1)
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_874_720p/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,METRO TV
+https://dl.dropboxusercontent.com/s/cat0n2r1qob59ag/metrotv.m3u8?dl=0
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,METRO TV (BACKUP 1)
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,SCTV
+https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,DAAI TV
+https://dl.dropboxusercontent.com/s/sbqajs5q2jh5cys/daaitv.m3u8?dl=0
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" , MALEO
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,MNC TV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000=2.m3u8
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="INDONESIA" ,TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="THAILAND" , 32TVHD
+https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="THAILAND" ,BBC EARTH
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="THAILAND" ,TNN 18
+https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="THAILAND" ,ONE 31
+https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="THAILAND" ,MCOT HD
+https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="THAILAND" ,THAI PBS
+https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="THAILAND" ,23 WORKPOINT
+https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="THAILAND" ,THAI 8 CAHNNEL
+https://cdn6.goprimetime.info/feed/ch8/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="THAILAND" ,TRUE 4U
+https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="THAILAND ,THAI NEWS 18
+https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="THAILAND" ,GMM 25
+https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="VIETNAM" ,BOOMERANG
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id=" " group-title="VIETNAM" ,DISNEY
+http://51.68.141.106:8081/tv/disney/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SINGAPORE" ,SURIA
+http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
