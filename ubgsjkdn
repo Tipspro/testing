@@ -211,6 +211,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="" group-title="MOVIE/ENTERTAINMENT",MOVIE 24/7
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIE/ENTERTAINMENT", HBO HD (MALAY SUBS)
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MOVIE/ENTERTAINMENT", HBO HD
