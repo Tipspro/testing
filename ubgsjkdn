@@ -265,6 +265,14 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482836.jpg" group-title="MOVIE/ENTERTAINMENT", celestial MOVIE 2 HD
 http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-name="305" tvg-id="TYP.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial%20movies.png" group-title="MOVIE/ENTERTAINMENT",CELESTIAL MOVIES
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-name="305" tvg-id="TYJ.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/Celestial%20Classic%20Movies.png" group-title="MOVIE/ENTERTAINMENT",CELESTIAL CLASSIC MOVIES
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MOVIE/ENTERTAINMENT", TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_03.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/fe3cbfb8b107028b0ab52.png" group-title="MOVIE/ENTERTAINMENT", Discovery Science HD
