@@ -255,7 +255,11 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MOVIE/ENTERTAINMENT", &PICTURES HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307442902.png" group-title="MOVIE/ENTERTAINMENT", AXN HD\
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="AXN.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png" group-title="Malaysia",AXN
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307442902.png" group-title="MOVIE/ENTERTAINMENT", AXN HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482835.jpg" group-title="MOVIE/ENTERTAINMENT", CELESTIAL MOVIE HD
 http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
@@ -731,6 +735,96 @@ http://dimapro.cz:8080/00:1A:79:17:08:39/ziajdjjfdifjd64646/38570
 https://dl.dropboxusercontent.com/s/sbqajs5q2jh5cys/daaitv.m3u8?dl=0
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="“BACKUP”", ASTRO CERIA  (BACKUP 2)
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="“BACKUP”", ASTRO CITRA HD
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="“BACKUP”", ASTRO OASIS
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="“BACKUP”", ASTRO BOO HD
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="“BACKUP”", ASTRO VAANAVIL HD
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="“BACKUP”", ASTRO AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487192.png" group-title="“BACKUP”", boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482837.png" group-title="“BACKUP”", Aec
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482838.jpg" group-title="“BACKUP”", xiantaiyang
+http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482839.jpg" group-title="“BACKUP”", huahee
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487190.png" group-title="“BACKUP”", shuangxing
+http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487191.png" group-title="“BACKUP”", qiyi
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487198.jpg" group-title="“BACKUP”", xinhe
+http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487199.png" group-title="“BACKUP”", quanjia
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487223.png" group-title="“BACKUP”", AODHD
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487224.png" group-title="“BACKUP”", Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893959.jpg" group-title="“BACKUP”", KBS World HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893989.png" group-title="“BACKUP”", tVN movies HD
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="“BACKUP”", Naura HD CH109
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/fc9cace1727875203b211.png" group-title="“BACKUP”", Astro Vaanavil CH201
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/0ef6c2b902832a905d3dc.png" group-title="“BACKUP”", CTI Asia CH316
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320670
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/4b330adb1e719b7a8720c.jpg" group-title="“BACKUP”", TVB News CH318
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320683
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/365a626b25d56ee7337ec.jpg" group-title="“BACKUP”", CCM 天映经典 CH321
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png" group-title="“BACKUP”", tvN EN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/fcc1eeba026c62641871d.png" group-title="“BACKUP”", BERNAMA CH502
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/92525a08e0280d4791558.jpg" group-title="“BACKUP”", Astro 华丽台 [TVB Jade]
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670372/301893898.jpg" group-title="“BACKUP”", ASTRO Oh!K HD
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="“BACKUP”", GO SHOP
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF: -1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="“BACKUP”", Ria
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png" group-title="“BACKUP”", Prima
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png" group-title="“BACKUP”", Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png" group-title="“BACKUP”", Warna
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png" group-title="“BACKUP”", Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/fbd995d0-c098-11eb-97c8-3d36c960d834/1686664/305979919.png" group-title="“BACKUP”", Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/028d6660-c234-11eb-a378-ab364fcd3e6a/1692295/307141176.jpg" group-title="“BACKUP”", BEINSPORT1
+http://dimapro.cz:8080/00:1A:79:17:08:39/ziajdjjfdifjd64646/544
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/028d6660-c234-11eb-a378-ab364fcd3e6a/1692295/307141177.jpg" group-title="“BACKUP”", BEINSPORT2
+http://dimapro.cz:8080/00:1A:79:17:08:39/ziajdjjfdifjd64646/543
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/028d6660-c234-11eb-a378-ab364fcd3e6a/1692295/307141178.jpg" group-title="“BACKUP”", BEINSPORT3
+http://dimapro.cz:8080/00:1A:79:17:08:39/ziajdjjfdifjd64646/542
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" group-title="“BACKUP”", Astro Supersport 4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="“BACKUP”", Astro Supersport 1
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" group-title="“BACKUP”", Astro Supersport 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" group-title="“BACKUP”", Astro Supersport 3
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487197.png" group-title="“BACKUP”", arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="“BACKUP”", FOX SPORT HD
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="“BACKUP”", FOX SPORT 2 HD
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="“BACKUP”", FOX SPORT 2 HD (BACKUP 1)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="“BACKUP”", FOX SPORT 3 HD
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="“BACKUP”", Cartoon Network
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="ISLAMIC", [001] Surah Alfatihah (Pembukaan)
