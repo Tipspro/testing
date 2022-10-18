@@ -1,0 +1,12 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="" group-title="FREE TRIAL BY OVERCRAFTTTT SHOPEE", -
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_03.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="FREE TRIAL", TVS
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_03.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="FREE TRIAL", GO SHOP
+https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="FREE TRIAL", ASTRO VAANAVIL HD
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png" group-title="FREE TRIAL", CNA
+#EXTINF:-1 tvg-id="513" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/13602072_ico.png" group-title="FREE TRIAL",AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
